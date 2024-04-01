@@ -1,0 +1,5 @@
+Name           English          Chinese      Mathematics
+Wang             99              98                 100
+Li               98              89                 70
+Zhang            80              90                 97
+Zhao             77              65                 87
